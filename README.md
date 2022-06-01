@@ -1,3 +1,11 @@
-[![Dante Barbieri's GitHub stats](https://github-readme-stats.vercel.app/api?username=pulchroxloom&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=pulchroxloom&count_private=true&show_icons=true&theme=dark" alt="Dante Barbieri's GitHub stats" />
+  </p>
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=pulchroxloom&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pulchroxloom&langs_count=10&theme=dark" alt="Top Langs" />
+  </p>
+</a>
